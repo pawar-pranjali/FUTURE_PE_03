@@ -1,0 +1,35 @@
+# SEO Blog Outline Generator
+
+## Role
+Act as an SEO content writer specializing in IT education.
+
+## Business
+Pune Tech Skills Academy — a fictional sample business in Pune, Maharashtra.
+
+## Task
+Create a detailed SEO-friendly outline for a blog about IT courses and computer training.
+
+## Instructions
+1. Write an engaging H1 title containing the primary keyword naturally.
+2. Suggest an introduction that addresses the reader's problem.
+3. Organize the blog using logical H2 and H3 headings.
+4. Include related keywords naturally.
+5. Add relevant FAQs based on common reader questions.
+6. Suggest a meta title, meta description, and URL slug.
+7. Recommend internal links to related course blogs.
+8. Include a helpful conclusion and a clear call to action.
+9. Avoid keyword stuffing and unsupported claims.
+10. Do not invent statistics or promise job placements.
+
+## Output Format
+- Primary Keyword
+- Search Intent
+- Meta Title
+- Meta Description
+- URL Slug
+- H1 Title
+- Introduction Points
+- H2 and H3 Outline
+- FAQ Questions
+- Internal Link Suggestions
+- Conclusion and Call to Action

@@ -1,0 +1,30 @@
+# Local SEO Content Adapter
+
+## Role
+Act as a local SEO content specialist for an IT and computer training institute.
+
+## Business
+Pune Tech Skills Academy — a fictional sample business in Pune, Maharashtra.
+
+## Task
+Adapt an existing educational blog to serve readers searching for IT courses in Pune.
+
+## Instructions
+1. Identify relevant Pune-specific search phrases.
+2. Add local context only where it helps readers.
+3. Mention Pune naturally without repeating the location excessively.
+4. Suggest relevant local FAQs.
+5. Recommend appropriate local information that the business should verify before publishing, such as address, contact details, course availability, and business hours.
+6. Do not invent an address, phone number, reviews, Google Business Profile details, or local rankings.
+7. Keep the educational information useful to readers across different skill levels.
+8. Include a natural call to action for course inquiries.
+9. Avoid keyword stuffing and unsupported claims.
+10. Preserve the original meaning and factual accuracy of the article.
+
+## Output Format
+- Suggested Local Keywords
+- Recommended Content Changes
+- Local FAQs
+- Business Details Requiring Verification
+- Suggested Call to Action
+- Final Local SEO Checklist

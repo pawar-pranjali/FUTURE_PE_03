@@ -1,0 +1,49 @@
+# SEO Blog Quality Testing Checklist
+
+## Project
+AI SEO Blog and Content Cluster Generator
+
+## Purpose
+Check whether the generated blog content is useful, readable, accurate, and ready for review before publication.
+
+## Test Cases
+
+| Test ID | Test | Expected Result |
+|---|---|---|
+| SEO-01 | Check the blog title | Clear and relevant to the topic |
+| SEO-02 | Check the primary keyword | Used naturally without keyword stuffing |
+| SEO-03 | Check the introduction | Explains the reader's problem and the article's purpose |
+| SEO-04 | Check headings | Logical H1, H2, and H3 structure |
+| SEO-05 | Check readability | Clear English and manageable paragraphs |
+| SEO-06 | Check meta title | Relevant and descriptive |
+| SEO-07 | Check meta description | Accurate summary of the blog |
+| SEO-08 | Check URL slug | Short, descriptive, and relevant |
+| SEO-09 | Check internal links | Relevant links are suggested and destinations are verified before publication |
+| SEO-10 | Check local SEO | Pune references are natural and relevant |
+| SEO-11 | Check factual claims | Claims are supported or clearly marked for verification |
+| SEO-12 | Check business details | No invented address, fees, reviews, or placement guarantees |
+| SEO-13 | Check FAQs | Questions are relevant to the article |
+| SEO-14 | Check call to action | Clear, helpful, and not misleading |
+| SEO-15 | Check originality | Content is original and not copied from another article |
+
+## Manual Test Results
+
+Use the following status values when reviewing each blog:
+- Pass
+- Needs Improvement
+- Not Tested
+
+Do not mark a test as passed until you have actually checked it.
+
+## Review Summary
+
+- Blog reviewed:
+- Review date:
+- Tests passed:
+- Issues found:
+- Corrections needed:
+- Final decision: Ready for Further Review / Revise First
+
+## Important Note
+
+This checklist supports manual quality review. It does not prove that a blog will rank on Google or guarantee traffic, leads, or sales.

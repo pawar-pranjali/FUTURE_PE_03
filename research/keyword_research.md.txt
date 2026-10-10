@@ -1,0 +1,44 @@
+# SEO Keyword Research
+
+## Project
+AI SEO Blog and Content Cluster Generator
+
+## Sample Business
+Pune Tech Skills Academy — a fictional IT and computer training institute.
+
+## Target Location
+Pune, Maharashtra, India
+
+## Purpose
+Identify relevant search phrases for educational blogs about IT courses. The keywords below are initial ideas, not verified search-volume data.
+
+## Keyword Ideas
+
+| Course | Primary Keyword Idea | Related Keyword Ideas | Search Intent |
+|---|---|---|---|
+| General IT Training | computer training institute in Pune | IT courses in Pune, computer classes in Pune | Commercial |
+| Python | Python course in Pune | Python for beginners, Python programming course | Commercial |
+| Data Analytics | data analytics course in Pune | data analyst skills, data analytics roadmap | Commercial |
+| Java | Java programming for beginners | Java course, Java programming projects | Informational |
+| Web Development | web development course in Pune | frontend development, backend development | Commercial |
+| Institute Selection | how to choose an IT training institute | IT training institute checklist, computer course selection | Informational |
+
+## Search Intent Definitions
+
+- Informational: The reader wants to learn or understand something.
+- Commercial: The reader is comparing courses or training options.
+- Transactional: The reader is ready to take an action, such as enrolling or contacting an institute.
+
+## Verification Notes
+
+- These are suggested keyword ideas, not measured keyword metrics.
+- Use Google Trends or a suitable keyword research tool to investigate actual search demand.
+- Do not invent monthly search volume, keyword difficulty, or ranking data.
+- Confirm the relevance of Pune-specific keywords before publishing.
+
+## Next Steps
+
+1. Validate keyword relevance and demand.
+2. Select one primary keyword for each blog.
+3. Map supporting keywords to relevant headings.
+4. Avoid targeting the same search intent with multiple competing articles.

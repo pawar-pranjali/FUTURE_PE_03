@@ -1,0 +1,71 @@
+# SEO Content Cluster Plan
+
+## Project
+AI SEO Blog and Content Cluster Generator
+
+## Sample Business
+Pune Tech Skills Academy — a fictional IT and computer training institute.
+
+## Pillar Blog
+
+**Title:** Computer Training Institute in Pune: Courses, Skills and How to Choose
+
+**Purpose:** Help readers understand different IT courses and how to choose a suitable training institute.
+
+**Primary Keyword:** computer training institute in Pune
+
+## Supporting Blogs
+
+### Blog 1: Python
+**Title:** Python Course in Pune: Syllabus, Projects and How to Get Started
+
+**Primary Keyword:** Python course in Pune
+
+**Connection:** Link to the pillar blog and explain Python's place among IT learning options.
+
+### Blog 2: Data Analytics
+**Title:** Data Analytics Course in Pune: Skills, Tools and Learning Roadmap
+
+**Primary Keyword:** data analytics course in Pune
+
+**Connection:** Link to the pillar blog and explain the skills used in data analytics.
+
+### Blog 3: Java
+**Title:** Java Programming for Beginners: Concepts, Practice and Projects
+
+**Primary Keyword:** Java programming for beginners
+
+**Connection:** Link to the pillar blog and introduce Java as a programming learning option.
+
+### Blog 4: Choosing an Institute
+**Title:** How to Choose the Right IT Training Institute
+
+**Primary Keyword:** how to choose an IT training institute
+
+**Connection:** Link directly to the pillar blog and help readers compare learning options.
+
+### Blog 5: Web Development
+**Title:** Web Development Course in Pune: Frontend, Backend and Projects
+
+**Primary Keyword:** web development course in Pune
+
+**Connection:** Link to the pillar blog and explain frontend and backend learning paths.
+
+## Internal Linking Rules
+
+1. Every supporting blog should link to the pillar blog where relevant.
+2. Link related supporting blogs when the link provides extra value.
+3. Use descriptive anchor text that explains the destination.
+4. Do not invent published URLs. Confirm URL slugs before publishing.
+5. Avoid excessive or irrelevant internal links.
+
+## Content Publishing Order
+
+1. Publish the pillar blog first.
+2. Publish the five supporting blogs.
+3. Add and verify internal links.
+4. Review SEO titles, meta descriptions, and content quality.
+
+## Measurement Plan
+
+Track organic clicks, impressions, search queries, and relevant course inquiries after publication using suitable analytics tools. Do not claim results before collecting data.

@@ -1,0 +1,28 @@
+# SEO Content Cluster Planner
+
+## Role
+Act as an SEO content strategist for an IT and computer training institute.
+
+## Business
+Pune Tech Skills Academy — a fictional sample business in Pune, Maharashtra.
+
+## Goal
+Create a topic cluster that improves website content organization and helps readers explore relevant IT courses.
+
+## Instructions
+1. Create one pillar blog topic about choosing an IT training institute in Pune.
+2. Create five supporting blog topics related to Python, Data Analytics, Java, Web Development, and choosing an IT training institute.
+3. Give each blog a primary keyword and search intent.
+4. Explain how each supporting blog connects to the pillar blog.
+5. Suggest natural internal links between related blogs.
+6. Avoid duplicate topics, keyword stuffing, and unsupported business claims.
+
+## Output Format
+For each blog, provide:
+- Blog Title
+- Content Type: Pillar or Supporting
+- Primary Keyword
+- Search Intent
+- Target Audience
+- Connection to Other Blogs
+- Suggested Internal Links

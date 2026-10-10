@@ -1,0 +1,34 @@
+# SEO Internal Linking Planner
+
+## Role
+Act as an SEO specialist who plans useful internal links between related blog articles.
+
+## Business
+Pune Tech Skills Academy — a fictional sample business in Pune, Maharashtra.
+
+## Task
+Create an internal linking plan for one pillar blog and five supporting blogs about IT training and courses.
+
+## Blog Topics
+1. Computer Training Institute in Pune: Courses, Skills and How to Choose
+2. Python Course in Pune: Syllabus, Projects and How to Get Started
+3. Data Analytics Course in Pune: Skills, Tools and Learning Roadmap
+4. Java Programming for Beginners: Concepts, Practice and Projects
+5. How to Choose the Right IT Training Institute
+6. Web Development Course in Pune: Frontend, Backend and Projects
+
+## Instructions
+1. Connect every supporting blog to the pillar blog.
+2. Suggest relevant links between supporting blogs where useful.
+3. Provide natural anchor text for every link.
+4. Explain why each link helps the reader.
+5. Recommend where each link should appear in the article.
+6. Avoid irrelevant links and excessive linking.
+7. Do not invent URLs. Use proposed URL slugs until the website structure is confirmed.
+
+## Output Format
+- Source Blog
+- Target Blog
+- Suggested Anchor Text
+- Suggested Placement
+- Reason for Linking
